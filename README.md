@@ -1,4 +1,4 @@
-# Bankist Application
+# Bankist Website
 
 This is Banking website project (Bankist). HTML, CSS and JavaScript has been used to for this project, it working completely fine as intended and can be used for reference
 
